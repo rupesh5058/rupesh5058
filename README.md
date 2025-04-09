@@ -1,6 +1,6 @@
-Hi 👋, I'm Rupesh Jagadale A passionate C# .NET Developer & Cloud-Native
+Hi 👋, I'm Rupesh Jagadale A passionate C# .NET Developer 
 
-🌱 I’m currently learning Docker,AWS,K8s
+🌱 I’m currently learning Docker,AWS
 
 💬 Ask me about C#,.Net,Jenkins,React,React Native,Angular,SQL,HTML,JS,CSS,Boostrap.
 
@@ -11,3 +11,4 @@ Hi 👋, I'm Rupesh Jagadale A passionate C# .NET Developer & Cloud-Native
 Connect with me:
 
 Languages and Tools: angular appwrite aws azure bootstrap csharp css3 docker dotnet firebase git html5 javascript jenkins kubernetes mssql react reactnative typescript
+https://getbootstrap.com/https://angular.dev/https://azure.microsoft.com/en-inhttps://appwrite.io/
