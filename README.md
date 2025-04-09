@@ -11,4 +11,3 @@ Hi 👋, I'm Rupesh Jagadale A passionate C# .NET Developer
 Connect with me:
 
 Languages and Tools: angular appwrite aws azure bootstrap csharp css3 docker dotnet firebase git html5 javascript jenkins kubernetes mssql react reactnative typescript
-https://getbootstrap.com/https://angular.dev/https://azure.microsoft.com/en-inhttps://appwrite.io/
